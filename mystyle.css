@@ -1,0 +1,187 @@
+.container
+{
+	padding: 50px;
+	border: 3px solid;
+	width: 35%;
+	margin-left: 25%!important;
+	margin-top: 10%!important;
+}
+.heading
+{
+	font-size: 25px;
+	font-weight: bolder;
+	text-align: center!important;
+	margin-bottom: 12px !important; 
+}
+.fieldlabel
+{
+	margin-bottom: 5px;
+}
+.buttonlabel
+{
+	width: 120%;
+	text-align: center;
+}
+.button-style
+{
+	
+	margin-right: 4px;
+}
+.tasklabel
+{
+	margin-left:35px;
+}
+.statuslabel
+{
+	margin-left:150px;
+}
+#lightbox{
+    visibility:hidden;
+    position:absolute;
+    background:red;
+    border:2px solid #3c3c3c;
+    color:white;
+    z-index:100;
+    width: 200px;
+    height:100px;
+    padding:20px;
+}
+
+.dimmer{
+    background: #000;
+    position: absolute;
+    opacity: .5;
+    top: 0;
+    z-index:99;
+}
+
+
+
+/* Resume styles  */
+
+.resume-heading
+{
+	margin-top:40px;
+}
+.btn
+{
+	border: 1px solid;
+	text-decoration: none;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+   
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+
+   
+}
+
+.content
+{
+	padding: 30px;
+	width: 345px;
+	margin:250px 430px;
+	text-align:center;
+	align:center;
+}
+.login-border
+{
+	border: 1px solid gray;
+	padding: 30px;
+}
+.input-item
+{
+	margin-bottom: 10px;
+}
+.cont_box1
+{
+	margin-top:130px;
+}
+
+/*=============== menu =============*/
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropbtn2 {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropbtn1 {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px!important;
+    border: none;
+    cursor: pointer;
+	text-decoration: none;
+	font-family: Arial !important;
+}
+.dropbtn1:hover, .dropbtn1:focus {
+    background-color: #2980B9;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown1 {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd}
+.dropdown1 a:hover {background-color: #ddd}
+
+.show {display:block;}
