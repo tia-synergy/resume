@@ -138,7 +138,7 @@
 			</div>
 			<div class="cont_box1">
 				<div class="cont_box1_header fl">
-					<span style="text-align:center;"><h1>List Resume</h1></span>
+					<span style="text-align:center;"><h1>List Resume123</h1></span>
 					
 				</div>
 				<!-- SEARCH & VIEW ALL PART STARTS -->
