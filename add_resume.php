@@ -241,13 +241,13 @@
 					if(isset($_GET["resume_id"]))
 					{
 						?>
-						<div class="resume-heading"> <h1>Edit Resume</h1></div>
+						<div class="resume-heading"> <h1>Edit Resume123</h1></div>
 						<?php
 					}
 					else
 					{
 						?>
-						<div class="resume-heading"> <h1>Add Resume</h1></div>
+						<div class="resume-heading"> <h1>Add Resume123</h1></div>
 						<?php
 					}
 				?>
